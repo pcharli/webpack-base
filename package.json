@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "description": "Une eptite mise en place",,
+  "description": "Une eptite mise en place",
   "author" : "Pierre Charlier",
   "scripts": {
     "dev": "webpack --watch --mode development",
