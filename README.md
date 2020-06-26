@@ -2,6 +2,6 @@
 npm install
 
 ---------------
-npm run dev
+npm run dev = lance un serveur dev en watch
 
-npm run build
+npm run build = construit l'App dans Dist
